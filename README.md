@@ -99,7 +99,7 @@ This is where I:
      source venv/bin/activate
    
 4. Install dependencies:
-         pip install -r requirements.txt
+     pip install -r requirements.txt
 
 5. Run any notebook or script in algorithms/ or projects/ and start experimenting.
 
@@ -109,7 +109,7 @@ This is where I:
 - Ongoing. Unfiltered. Educational.
 - Expect broken notebooks, sudden insights, and bursts of progress.
 
-License
+## License
 MIT © ruskaruma
 
 
