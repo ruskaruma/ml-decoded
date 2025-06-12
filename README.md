@@ -95,13 +95,15 @@ This is where I:
    cd ML-From-Scratch
    
 2. Set up the virtual enviornment:
+   ```bash
      python -m venv venv
      source venv/bin/activate
    
-4. Install dependencies:
+3. Install dependencies:
+    ```bash
      pip install -r requirements.txt
 
-5. Run any notebook or script in algorithms/ or projects/ and start experimenting.
+4. Run any notebook or script in algorithms/ or projects/ and start experimenting.
 
 
 
