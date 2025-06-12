@@ -1,33 +1,71 @@
-# ml-from-scratch
-All things classical ML: every algorithm explained, implemented, and dissected for fun. Projects, C implementations, and occasional nerdery included.
+project:
+  title: "ClassicalML-From-Scratch"
+  description: >
+    Understanding models, not just using them. Algorithms explained, coded, broken,
+    and rebuilt—with some C for spice.
 
+sections:
+  - title: "What's Inside"
+    content:
+      - "Intuitive, math-backed explanations of classical ML algorithms"
+      - "Python implementations with well-commented, no-nonsense code"
+      - "C implementations (for low-level control and performance)"
+      - "Mini-projects and experiments"
+      - "Debugging sessions, learning notes, and breakdowns"
+      - "Paper implementations and research insights"
+      - "Curated resources from courses, books, and the web"
 
-This repo is a full-blown investigation into classical machine learning. Every algorithm gets explained, implemented, broken, debugged, rebuilt, and occasionally rewritten in C—just to prove a point.
+  - title: "Algorithms Covered"
+    content:
+      Supervised Learning:
+        - "Linear Regression"
+        - "Logistic Regression"
+        - "k-Nearest Neighbors (kNN)"
+        - "Support Vector Machines (SVM)"
+        - "Decision Trees"
+        - "Random Forests"
+        - "Naive Bayes"
+        - "Gradient Boosting (XGBoost, AdaBoost)"
+      Unsupervised Learning:
+        - "K-Means Clustering"
+        - "Hierarchical Clustering"
+        - "Principal Component Analysis (PCA)"
+        - "DBSCAN"
+        - "Gaussian Mixture Models (GMM)"
+      Optimization & Utilities:
+        - "Gradient Descent (SGD, Momentum, Adam)"
+        - "Loss functions and regularization"
+        - "Cross-validation and hyperparameter tuning"
+        - "Evaluation metrics (accuracy, precision, recall, F1, ROC)"
 
-What's inside
-Intuitive explanations of ML algorithms
+  - title: "Paper Implementations & Readings"
+    content:
+      - "Reading and breaking down foundational ML papers"
+      - "Simplified implementations of key research ideas"
+      - "Planned walkthroughs for:"
+      - '"A Few Useful Things to Know About Machine Learning"'
+      - '"The Elements of Statistical Learning" (select algorithms)'
+      - "Original SVM, KNN, Decision Tree papers"
 
-Python implementations with comments that don't lie
+  - title: "Why This Exists"
+    content:
+      - "Because `.fit()` is not understanding"
+      - "Learn by building and rebuilding from scratch"
+      - "Use C where abstraction is a barrier"
+      - "Document bugs, breakthroughs, and everything in between"
+      - "Grounded fundamentals for deeper modern ML understanding"
 
-C implementations when I'm feeling spicy
+  - title: "Who Should Care"
+    content:
+      - "You want to go deeper into ML theory and implementation"
+      - "You prefer intuition over rote learning"
+      - "You think debugging is a thinking tool"
+      - "You enjoy DIY-style learning"
+      - "You want to port ML to weird hardware for fun"
 
-Mini projects and experiments
-
-My notes, mistakes, and moments of crisis
-
-Resource lists from courses, books, and the abyss of the internet
-
-Why this exists
-Because sometimes you want to understand how the model works, not just call .fit() and hope for the best. This is where I figure things out, take notes, and build intuition through chaos.
-
-Who should care
-You're learning ML and want to go deeper
-
-You like understanding things instead of memorizing them
-
-You think debugging is a personality trait
-
-You might want to port ML to a toaster someday
-
-Status
-Ongoing. Unhinged. Educational.
+  - title: "Status"
+    content:
+      - "Ongoing"
+      - "Somewhat chaotic"
+      - "Deeply educational"
+      - "Frequent updates and experiments"
