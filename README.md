@@ -1,10 +1,10 @@
-# ClassicalML-From-Scratch
+# ML-From-Scratch
 
 **Building brains out of math and code.**  
 A full investigation into classical machine learning — every algorithm explained, implemented, broken, debugged, and sometimes rewritten in C just to prove a point.
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Made with Python](https://img.shields.io/badge/python-3.x-green.svg)](https://www.python.org/)
+[![Made with Python](https://img.shields.io/badge/python-3.9-green.svg)](https://www.python.org/)
 [![Under Construction](https://img.shields.io/badge/status-ongoing-orange.svg)]()
 
 ---
@@ -91,5 +91,27 @@ This is where I:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/ClassicalML-From-Scratch.git
-   cd ClassicalML-From-Scratch
+   git clone https://github.com/your-username/ML-From-Scratch.git
+   cd ML-From-Scratch
+   
+2. Set up the virtual enviornment:
+     python -m venv venv
+     source venv/bin/activate
+   
+4. Install dependencies:
+         pip install -r requirements.txt
+
+5. Run any notebook or script in algorithms/ or projects/ and start experimenting.
+
+
+
+## Status
+- Ongoing. Unfiltered. Educational.
+- Expect broken notebooks, sudden insights, and bursts of progress.
+
+License
+MIT © ruskaruma
+
+
+
+   
